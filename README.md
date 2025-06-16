@@ -1,6 +1,6 @@
 📌Constructors :-
+![stud](https://github.com/user-attachments/assets/6aa9c6cb-04e0-4376-94bf-493ee9b93db2)
 
-![stud](https://github.com/user-attachments/assets/99a8af06-8f67-4ac1-aeeb-51168742324c)
 
 
 ![stud1](https://github.com/user-attachments/assets/a341a690-413d-4c96-b0f4-f694e94d7249)
