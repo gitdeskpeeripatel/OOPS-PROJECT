@@ -63,7 +63,6 @@ OOPS-PROJECT/
 
 │
 
-├── main.js                  # Optional: Combine all demonstrations
+├── main.js                 
 
-└── README.md                # Project documentation (this file)
-
+└── README.md               
