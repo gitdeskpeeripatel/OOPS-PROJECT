@@ -66,3 +66,25 @@ OOPS-PROJECT/
 ├── main.js                 
 
 └── README.md               
+
+
+✅ 1. Constructor
+🔹 Definition:
+A constructor is a special method used to initialize objects created from a class. It sets initial values for object properties.
+
+
+
+✅ 2. Inheritance
+🔹 Definition:
+Inheritance allows a class (child/subclass) to inherit properties and methods from another class (parent/superclass).
+
+
+✅ 3. Polymorphism
+🔹 Definition:
+Polymorphism means "many forms." In OOP, it allows methods to behave differently based on the object that invokes them, even if they share the same interface.
+
+
+
+✅ 4. Abstraction
+🔹 Definition:
+Abstraction hides internal implementation and shows only essential features to the user.
