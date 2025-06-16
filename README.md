@@ -25,3 +25,45 @@
 
 
 ![aa](https://github.com/user-attachments/assets/80f762ae-b6d7-4e09-8f52-fe5d65ff1943)
+
+
+
+📘 OOPS-PROJECT — JavaScript Object-Oriented Programming
+This project demonstrates the core principles of Object-Oriented Programming (OOP) using JavaScript.
+
+
+
+📁 Folder Structure
+
+OOPS-PROJECT/
+│
+
+
+├── Abstraction/
+
+│   └── script.js
+
+│
+
+├── Encapsulation/
+
+│   └── script.js
+
+│
+
+├── Inheritance/
+
+│   └── script.js
+
+│
+
+├── Polymorphism/
+
+│   └── script.js
+
+│
+
+├── main.js                  # Optional: Combine all demonstrations
+
+└── README.md                # Project documentation (this file)
+
